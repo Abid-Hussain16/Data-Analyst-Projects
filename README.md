@@ -1,18 +1,23 @@
-# 🏥 Healthcare Power BI Dashboard
+# 📊 Power BI Dashboards
 
-This repository contains a Power BI dashboard that visualizes key healthcare performance metrics. The goal is to provide clear insights into patient statistics, diagnosed conditions, departmental trends, and follow-up care efficiency.
+This repository contains Power BI dashboards that visualize key business and healthcare performance metrics. The goal is to provide clear insights into patient behavior, departmental trends, sales performance, and overall organizational efficiency.
 
 ---
 
 ## 📁 Files Included
 
-| File Name                     | Description                                      |
-|------------------------------|--------------------------------------------------|
-| `HealthCare powerbi DB.pbix` | Power BI dashboard file (open in Power BI Desktop) |
+| File Name                     | Description                                                  |
+|------------------------------|--------------------------------------------------------------|
+| `HealthCare powerbi DB.pbix` | Healthcare dashboard file (open in Power BI Desktop)         |
+| `Chocolate sales.pbix`       | Sales and Profit dashboard file (open in Power BI Desktop)   |
 
 ---
 
-## 📊 Dashboard Highlights
+# 🏥 Healthcare Power BI Dashboard
+
+This dashboard visualizes essential healthcare KPIs such as patient stats, diagnosed conditions, and departmental performance.
+
+### 📊 Dashboard Highlights
 
 - **Key Metrics (KPIs):**
   - Total Patients
@@ -32,24 +37,50 @@ This repository contains a Power BI dashboard that visualizes key healthcare per
   - Department
   - Doctor
 
+### 🎯 Use Case
+- Hospital performance monitoring  
+- Patient care analysis  
+- Operational decision-making  
+- Stakeholder presentations  
+
+---
+
+# 🍫 Chocolate Sales Power BI Dashboard
+
+This dashboard focuses on tracking chocolate product sales and profitability.
+
+### 📊 Dashboard Highlights
+
+- **Key Metrics (KPIs):**
+  - Total Sales
+  - Total Profit
+  - Top-Selling Products
+  - Monthly Performance
+
+- **Interactive Visuals:**
+  - Clustered Bar: Sales & Profit by Product
+  - Column Chart: Monthly Trend
+  - Donut Chart: Category-wise Sales Distribution
+  - KPIs with Conditional Formatting
+
+- **Filters & Slicers:**
+  - Product Category
+  - Region
+  - Month
+
+### 🎯 Use Case
+- Sales performance analysis  
+- Marketing campaign planning  
+- Product profitability insight  
+- Business stakeholder reporting  
+
 ---
 
 ## 🚀 How to Use
 
 1. Clone or download the repository.
-2. Open `HealthCare powerbi DB.pbix` using **Power BI Desktop**.
-3. Interact with filters and visuals to explore insights from the healthcare dataset.
-
----
-
-## 🎯 Use Case
-
-This dashboard can be used for:
-
-- Hospital performance monitoring  
-- Patient care analysis  
-- Operational decision-making  
-- Stakeholder presentations in the healthcare sector  
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Interact with filters and visuals to explore insights.
 
 ---
 
@@ -58,10 +89,3 @@ This dashboard can be used for:
 **Md Abid Hussain**  
 *Data Analyst | Power BI Enthusiast*  
 [GitHub Profile](https://github.com/Abid-Hussain16)
-
----
-
-## 📝 Note
-
-This project is created for portfolio and learning purposes using mock/sample data. It does not reflect real patient information.
-
